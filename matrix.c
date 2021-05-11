@@ -1,10 +1,7 @@
 /*
 Name:          Laborde, Curtis
-Email:         clabo15@lsu.edu
 Project:       PA-1 (Multithreading)
 Instructor:    Feng Chen
-Class:         cs4103-sp21
-Login ID:      cs410344
 */
 
 //Libraries used in this assignment
